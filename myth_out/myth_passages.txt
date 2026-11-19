@@ -1,0 +1,741 @@
+MITO
+Arianna aiuta Teseo ad uscire dal labirinto
+[Arianna aiuta Teseo ad uscire dal labirinto]  opere d'arte: 4
+
+VERSI
+8.176-177	Publio Ovidio Nasone, Le Metamorfosi, VIII
+8.174	Publio Ovidio Nasone, Le Metamorfosi, VIII, 174 e ss
+
+--------------------------------------------------
+MITO
+Arianna e Dioniso s'incontrano
+[Arianna e Dioniso s'incontrano]  opere d'arte: 20
+
+VERSI
+7.176-178	Ovidio, Metamorfosi VII
+8.176-181	Ovidio, Metamorfosi VIII
+8.177-179	Publio Ovidio Nasone, Le Metamorfosi, VIII
+8.176-177	Publio Ovidio Nasone, Le Metamorfosi, VIII
+8.174	Publio Ovidio Nasone, Le Metamorfosi, VIII, 174 e ss
+893-1027	Seneca, Medea   ⚠ label=Seneca vs urn=Euripides
+
+--------------------------------------------------
+MITO
+Arianna e Dioniso si sposano
+[Arianna e Dioniso si sposano]  opere d'arte: 7
+
+VERSI
+8.177-179	Publio Ovidio Nasone, Le Metamorfosi, VIII
+8.176-177	Publio Ovidio Nasone, Le Metamorfosi, VIII
+
+--------------------------------------------------
+MITO
+Arianna principessa di Cnosso
+[Arianna principessa di Cnosso]  opere d'arte: 10
+
+VERSI
+8.174	Publio Ovidio Nasone, Le Metamorfosi, VIII, 174 e ss
+
+--------------------------------------------------
+MITO
+Arianna s'innamora di Teseo
+[Arianna s'innamora di Teseo]  opere d'arte: 2
+
+VERSI
+8.176-177	Publio Ovidio Nasone, Le Metamorfosi, VIII
+8.174	Publio Ovidio Nasone, Le Metamorfosi, VIII, 174 e ss
+
+--------------------------------------------------
+MITO
+Arianna tra satiri menadi e altre figure mitologiche
+[Arianna tra satiri menadi e altre figure mitologiche]  opere d'arte: 3
+
+VERSI
+8.177-179	Publio Ovidio Nasone, Le Metamorfosi, VIII
+8.176-177	Publio Ovidio Nasone, Le Metamorfosi, VIII
+
+--------------------------------------------------
+MITO
+Arianna viene abbandonata da Teseo
+[Arianna viene abbandonata da Teseo]  opere d'arte: 4
+
+VERSI
+8.174	Publio Ovidio Nasone, Le Metamorfosi, VIII, 174 e ss
+
+--------------------------------------------------
+MITO
+Circe
+[Circe]  opere d'arte: 27
+
+VERSI
+10	Odissea, X
+
+--------------------------------------------------
+MITO
+Circe tenta di ingannare Odisseo
+[Circe tenta di ingannare Odisseo]  opere d'arte: 14
+
+VERSI
+10.310.10.335	Odissea, X
+
+--------------------------------------------------
+MITO
+Circe trasforma i compagni di Odisseo
+[Circe trasforma i compagni di Odisseo]  opere d'arte: 27
+
+VERSI
+10	Odissea, X
+10.203-243	Odissea, X
+
+--------------------------------------------------
+MITO
+Creature fantastiche
+[Creature fantastiche]  opere d'arte: 240
+
+VERSI
+2.175	Erodoto, Storie, II, 175
+10	Odissea, X
+11.273	Odissea, XI, 273
+
+--------------------------------------------------
+MITO
+Chimera
+[Creature fantastiche › Chimera]  opere d'arte: 18
+
+VERSI
+3.5-8	Apollodoro, Biblioteca, III, 5-8
+2.175	Erodoto, Storie, II, 175
+10	Odissea, X
+11.273	Odissea, XI, 273
+
+--------------------------------------------------
+MITO
+Sfinge
+[Creature fantastiche › Sfinge]  opere d'arte: 13
+
+VERSI
+3.5-8	Apollodoro, Biblioteca, III, 5-8
+2.175	Erodoto, Storie, II, 175
+10	Odissea, X
+11.273	Odissea, XI, 273
+
+--------------------------------------------------
+MITO
+Didone
+[Didone]  opere d'arte: 11
+
+VERSI
+1.340-368	Eneide, I
+1.353-359	Eneide, I
+4	Eneide, IV
+4.584-705	Eneide, IV
+
+--------------------------------------------------
+MITO
+Didone allestisce un banchetto in onore di Enea
+[Didone › Didone allestisce un banchetto in onore di Enea]  opere d'arte: 2
+
+VERSI
+1.637-756	Eneide, I
+
+--------------------------------------------------
+MITO
+Didone conduce Enea a palazzo
+[Didone › Didone conduce Enea a palazzo]  opere d'arte: 1
+
+VERSI
+1.631-632	Eneide, I, 631-632
+
+--------------------------------------------------
+MITO
+Morte di Didone
+[Didone › Morte di Didone]  opere d'arte: 30
+
+VERSI
+4.584-705	Eneide, IV
+
+--------------------------------------------------
+MITO
+Ermes aiuta Odisseo
+[Ermes aiuta Odisseo]  opere d'arte: 6
+
+VERSI
+10.274-306	Odissea, X
+10	Odissea, X
+10.203-243	Odissea, X
+
+--------------------------------------------------
+MITO
+Fineo e le arpie
+[Fineo e le arpie]  opere d'arte: 3
+
+VERSI
+1.9-21	Apollodoro, Biblioteca, I
+4	Eneide, IV
+
+--------------------------------------------------
+MITO
+Giasone corteggia Medea
+[Giasone corteggia Medea]  opere d'arte: 6
+
+VERSI
+442-1162	Apollonio Rhodio, Argonautica, III
+442-1162	Apollonio Rhodio, Argonautica, III
+69-93	Ovidio, Heroides XIII
+31-32	Ovidio, Heroides XIII
+207-213	Ovidio, Heroides XIII
+8.1-424	Ovidio, Metamorfosi VIII
+
+--------------------------------------------------
+MITO
+Giasone ripudia Medea
+[Giasone ripudia Medea]  opere d'arte: 1
+
+VERSI
+446-625	Euripide, Medea
+431-577	Seneca, Medea   ⚠ label=Seneca vs urn=Euripides
+
+--------------------------------------------------
+MITO
+Meleagro
+[Gli Eroi › Meleagro]  opere d'arte: 5
+
+VERSI
+8.260-444	Ovidio, Metamorfosi VIII
+
+--------------------------------------------------
+MITO
+Gli argonauti lasciano la Colchide
+[Gli argonauti lasciano la Colchide]  opere d'arte: 3
+
+VERSI
+442-1162	Apollonio Rhodio, Argonautica, III
+442-1162	Apollonio Rhodio, Argonautica, III
+6-182	Apollonio Rhodio, Argonautica, IV
+183-618	Apollonio Rhodio, Argonautica, Iv
+7.1-158	Ovidio, Metamorfosi VII
+8.1-424	Ovidio, Metamorfosi VIII
+
+--------------------------------------------------
+MITO
+Gli dèi
+[Gli dèi]  opere d'arte: 1346
+
+VERSI
+4.407-728	Eneide, IV
+7.1-158	Ovidio, Metamorfosi VII
+
+--------------------------------------------------
+MITO
+Atena
+[Gli dèi › Atena]  opere d'arte: 220
+
+VERSI
+7.1-158	Ovidio, Metamorfosi VII
+
+--------------------------------------------------
+MITO
+Vulcano
+[Gli dèi › Vulcano]  opere d'arte: 12
+
+VERSI
+4.407-728	Eneide, IV
+
+--------------------------------------------------
+MITO
+I Feaci aiutano Odisseo
+[I Feaci aiutano Odisseo]  opere d'arte: 4
+
+VERSI
+1	Odissea, I
+9.1-20	Odissea, IX
+5	Odissea, V
+6.194-300	Odissea, VI
+6.1-15	Odissea, VI
+8.260-290	Odissea, VIII
+
+--------------------------------------------------
+MITO
+I venti di Eolo
+[I venti di Eolo]  opere d'arte: 2
+
+VERSI
+10.17-21	Odissea, X
+10	Odissea, X
+10.47-55	Odissea, X
+
+--------------------------------------------------
+MITO
+Il ciclope Polifemo
+[Il ciclope Polifemo]  opere d'arte: 10
+
+VERSI
+1	Odissea, I
+9.380-397	Odissea, IX
+9.278-400	Odissea, IX
+9.350-390	Odissea, IX
+9.229-313	Odissea, IX
+9.191-228	Odissea, IX
+
+--------------------------------------------------
+MITO
+L'enigma della Sfinge
+[L'enigma della Sfinge]  opere d'arte: 13
+
+VERSI
+3.5-8	Apollodoro, Biblioteca, III, 5-8
+2.175	Erodoto, Storie, II, 175
+10	Odissea, X
+11.273	Odissea, XI, 273
+
+--------------------------------------------------
+MITO
+L'incanto delle sirene
+[L'incanto delle sirene]  opere d'arte: 6
+
+VERSI
+10	Odissea, X
+12.170-200	Odissea, XII
+12.178-180	Odissea, XII
+12.142-200	Odissea, XII
+
+--------------------------------------------------
+MITO
+La partenza degli Argonauti
+[La partenza degli Argonauti]  opere d'arte: 4
+
+VERSI
+105-115	Apollonio Rhodio, Argonautica, I
+15-20	Apollonio Rhodio, Argonautica, I
+284-608	Apollonio Rhodio, Argonautica, I
+
+--------------------------------------------------
+MITO
+Medea
+[Medea]  opere d'arte: 4
+
+VERSI
+7.11-73	Ovidio, Metamorfosi VII
+
+--------------------------------------------------
+MITO
+Medea e Creusa
+[Medea e Creusa]  opere d'arte: 6
+
+VERSI
+1295-1420	Euripide, Medea
+785-790	Euripide, Medea
+1120-1205	Euripide, Medea
+843-890	Seneca, Medea   ⚠ label=Seneca vs urn=Euripides
+893-1027	Seneca, Medea   ⚠ label=Seneca vs urn=Euripides
+
+--------------------------------------------------
+MITO
+Medea e Egeo
+[Medea e Egeo]  opere d'arte: 1
+
+VERSI
+657-757	Euripide, Medea
+
+--------------------------------------------------
+MITO
+Medea e il potere di ringiovanire
+[Medea e il potere di ringiovanire]  opere d'arte: 6
+
+VERSI
+4	Eneide, IV
+7.159-293	Ovidio, Metamorfosi, VII
+7.297-351	Ovidio, Metamorfosi, VII
+
+--------------------------------------------------
+MITO
+Medea figlicida
+[Medea figlicida]  opere d'arte: 20
+
+VERSI
+765-825	Euripide, Medea
+1295-1420	Euripide, Medea
+1120-1205	Euripide, Medea
+69-93	Ovidio, Heroides XIII
+31-32	Ovidio, Heroides XIII
+207-213	Ovidio, Heroides XIII
+7.391-404	Ovidio, Metamorfosi VII
+843-890	Seneca, Medea   ⚠ label=Seneca vs urn=Euripides
+13-18	Seneca, Medea   ⚠ label=Seneca vs urn=Euripides
+893-1027	Seneca, Medea   ⚠ label=Seneca vs urn=Euripides
+
+--------------------------------------------------
+MITO
+Medea medita vendetta
+[Medea medita vendetta]  opere d'arte: 9
+
+VERSI
+765-825	Euripide, Medea
+785-790	Euripide, Medea
+69-93	Ovidio, Heroides XIII
+31-32	Ovidio, Heroides XIII
+207-213	Ovidio, Heroides XIII
+13-18	Seneca, Medea   ⚠ label=Seneca vs urn=Euripides
+
+--------------------------------------------------
+MITO
+Odisseo arriva da Circe
+[Odisseo arriva da Circe]  opere d'arte: 4
+
+VERSI
+10.80-132	Odissea, X
+10.135-141	Odissea, X
+10	Odissea, X
+
+--------------------------------------------------
+MITO
+Odisseo e Diomede rubano il palladio
+[Odisseo e Diomede rubano il palladio]  opere d'arte: 4
+
+VERSI
+5.1-6	Iliade, V
+
+--------------------------------------------------
+MITO
+Odisseo lascia Circe
+[Odisseo lascia Circe]  opere d'arte: 3
+
+VERSI
+10	Odissea, X
+10.548-550	Odissea, X
+10.548-574	Odissea, X
+
+--------------------------------------------------
+MITO
+Odisseo libera i compagni
+[Odisseo libera i compagni]  opere d'arte: 4
+
+VERSI
+10.383-399	Odissea, X
+10	Odissea, X
+
+--------------------------------------------------
+MITO
+Odisseo sull'isola Ogigia
+[Odisseo sull'isola Ogigia]  opere d'arte: 2
+
+VERSI
+5	Odissea, V
+
+--------------------------------------------------
+MITO
+Odisseo torna ad Itaca
+[Odisseo torna ad Itaca]  opere d'arte: 9
+
+VERSI
+1.1-85	Odissea, I
+10	Odissea, X
+13.160-185	Odissea, XIII
+19.570-587	Odissea, XIX
+22.30-50	Odissea, XXII
+
+--------------------------------------------------
+MITO
+Penelope e Telemaco ad Itaca
+[Penelope e Telemaco ad Itaca]  opere d'arte: 11
+
+VERSI
+1	Odissea, I
+10	Odissea, X
+19.134-151	Odissea, XIX
+15.495-507	Odissea, XV
+
+--------------------------------------------------
+MITO
+Arianna
+[Personaggi e narrazioni › Arianna]  opere d'arte: 147
+
+VERSI
+10	Odissea, X
+8.177-179	Publio Ovidio Nasone, Le Metamorfosi, VIII
+8.176-177	Publio Ovidio Nasone, Le Metamorfosi, VIII
+8.174	Publio Ovidio Nasone, Le Metamorfosi, VIII, 174 e ss
+
+--------------------------------------------------
+MITO
+Saghe familiari e epiche
+[Saghe familiari e epiche]  opere d'arte: 451
+
+VERSI
+4.407-728	Eneide, IV
+
+--------------------------------------------------
+MITO
+Cadmo
+[Saghe familiari e epiche › Cadmo]  opere d'arte: 1
+
+VERSI
+20-26	Euripide, Le Fenicie
+3.55-94	Ovidio, Metamorfosi, III, 55-94
+
+--------------------------------------------------
+MITO
+Cadmo contro il drago
+[Saghe familiari e epiche › Cadmo contro il drago]  opere d'arte: 5
+
+VERSI
+20-26	Euripide, Le Fenicie
+20-26	Euripide, Le Fenicie
+3.55-94	Ovidio, Metamorfosi, III, 55-94
+
+--------------------------------------------------
+MITO
+Scilla e Cariddi
+[Scilla e Cariddi]  opere d'arte: 4
+
+VERSI
+10	Odissea, X
+12.80-140	Odissea, XII
+12.233-235	Odissea, XII
+12.233-255	Odissea, XII
+12.85-100	Odissea, XII
+
+--------------------------------------------------
+MITO
+Antigone condannata a morte da Creonte
+[ciclo-tebano › Antigone condannata a morte da Creonte]  opere d'arte: 2
+
+VERSI
+435-437	Sofocle, Antigone
+563-565	Sofocle, Antigone
+
+--------------------------------------------------
+MITO
+Antigone conduce Edipo cieco
+[ciclo-tebano › Antigone conduce Edipo cieco]  opere d'arte: 5
+
+VERSI
+1-3	Sofocle, Edipo a Colono
+24	Sofocle, Edipo a Colono
+1-3	Sofocle, Edipo a Colono
+
+--------------------------------------------------
+MITO
+Antigone sul sepolcro di Policine
+[ciclo-tebano › Antigone sul sepolcro di Policine]  opere d'arte: 8
+
+VERSI
+80-82	Sofocle, Antigone
+435-437	Sofocle, Antigone
+489-491	Sofocle, Antigone
+489-491	Sofocle, Antigone, Secondo Episodio
+489-491	Sofocle, Antigone, Secondo Episodio
+
+--------------------------------------------------
+MITO
+Edipo a Colono
+[ciclo-tebano › Edipo a Colono]  opere d'arte: 7
+
+VERSI
+40-46	Sofocle, Edipo a Colono
+24	Sofocle, Edipo a Colono
+1760-1830	Sofocle, Edipo a Colono
+24	Sofocle, Edipo a Colono
+21	Sofocle, Edipo a Colono
+282-319	Sofocle, Edipo a Colono, Parodo
+
+--------------------------------------------------
+MITO
+Edipo nutrito da Forbo
+[ciclo-tebano › Edipo nutrito da Forbo]  opere d'arte: 2
+
+VERSI
+1102-1117	Sofocle, Edipo Re
+1102-1117	Sofocle, Edipo Re
+
+--------------------------------------------------
+MITO
+Enea abbandona Didone
+[enea › Enea abbandona Didone]  opere d'arte: 10
+
+VERSI
+4.242-280	Eneide, IV, 242-280
+4.337-396	Eneide, IV, 337-396
+4.362-392	Eneide, IV, 362-392
+
+--------------------------------------------------
+MITO
+Enea contro Turno
+[enea › Enea contro Turno]  opere d'arte: 4
+
+VERSI
+12.383-441	Eneide, XII, 383-441
+12.887-952	Eneide, XII, 887-952
+
+--------------------------------------------------
+MITO
+Enea e Acate sulla costa libica
+[enea › Enea e Acate sulla costa libica]  opere d'arte: 9
+
+VERSI
+1.310-314	Eneide, I, 310-314
+1.312-401	Eneide, I, 312-401
+
+--------------------------------------------------
+MITO
+Enea e Didone innamorati
+[enea › Enea e Didone innamorati]  opere d'arte: 14
+
+VERSI
+4.1-330	Eneide, IV
+4	Eneide, IV
+4.129-165	Eneide, IV
+4.160-192	Eneide, IV, 160-192
+4.68-73	Eneide, IV, 68-73
+
+--------------------------------------------------
+MITO
+Enea e i sogni rivelatori
+[enea › Enea e i sogni rivelatori]  opere d'arte: 4
+
+VERSI
+4.242-280	Eneide, IV, 242-280
+8.31-96	Eneide, VIII, 31-96
+
+--------------------------------------------------
+MITO
+Enea e i suoi vengono attaccati dalle Arpie
+[enea › Enea e i suoi vengono attaccati dalle Arpie]  opere d'arte: 2
+
+VERSI
+2	Eneide, II
+3.190-267	Eneide, III, 190-267
+
+--------------------------------------------------
+MITO
+Enea fugge da Troia in fiamme
+[enea › Enea fugge da Troia in fiamme]  opere d'arte: 43
+
+VERSI
+2.747-804	Eneide, II
+2	Eneide, II
+2.560-638	Eneide, II
+2.768-798	Eneide, II
+2.721-724	Eneide, II, 721-724
+9.191-228	Odissea, IX
+
+--------------------------------------------------
+MITO
+Enea negli inferi
+[enea › Enea negli inferi]  opere d'arte: 10
+
+VERSI
+6.103-155	Eneide, VI, 103-155
+6.236-263	Eneide, VI, 236-263
+
+--------------------------------------------------
+MITO
+Enea nei Campi Elisi
+[enea › Enea nei Campi Elisi]  opere d'arte: 3
+
+VERSI
+6.628-650	Eneide, VI, 628-650
+
+--------------------------------------------------
+MITO
+Enea nella penisola italica
+[enea › Enea nella penisola italica]  opere d'arte: 12
+
+VERSI
+9.25-175	Eneide, IX, 25-175
+5.362-484	Eneide, V, 362-484
+5.42-113	Eneide, V, 42-113
+5.604-699	Eneide, V, 604-699
+7.148-285	Eneide, VII, 148-285
+7.195-204	Eneide, VII, 195-204
+7.25-36	Eneide, VII, 25-36
+7.406-539	Eneide, VII, 406-539
+8.560-584	Eneide, VIII, 560-584
+11.1-99	Eneide, XI, 1-99
+12.113-133	Eneide, XII, 113-133
+
+--------------------------------------------------
+MITO
+Enea presenta Cupido nei panni di Ascanio a Didone
+[enea › Enea presenta Cupido nei panni di Ascanio a Didone]  opere d'arte: 5
+
+VERSI
+1.715-722	Eneide, I, 715-722
+1.715-722	Eneide, I, 715-722
+1.715-722	Virgilio, Eneide, I, 715-722
+
+--------------------------------------------------
+MITO
+Enea si rivela a Didone
+[enea › Enea si rivela a Didone]  opere d'arte: 12
+
+VERSI
+1.586-630	Eneide, I, 586-630
+
+--------------------------------------------------
+MITO
+Enea verso la penisola italica
+[enea › Enea verso la penisola italica]  opere d'arte: 5
+
+VERSI
+2	Eneide, II
+3.506-507	Eneide, III
+3.1-12	Eneide, III, 1-12
+3.13-68	Eneide, III, 13-68
+3.301-555	Eneide, III, 301-555
+3.69-123	Eneide, III, 69-123
+
+--------------------------------------------------
+MITO
+L'apoteosi di Enea
+[enea › L'apoteosi di Enea]  opere d'arte: 3
+
+VERSI
+14.581-608	Ovidio, Metamorfosi, XIV, 581-608
+
+--------------------------------------------------
+MITO
+Nettuno salva Enea
+[enea › Nettuno salva Enea]  opere d'arte: 3
+
+VERSI
+1.124-126	Eneide, I
+
+--------------------------------------------------
+MITO
+Venere e Anchise
+[enea › Venere e Anchise]  opere d'arte: 1
+
+VERSI
+1.615-619	Eneide, I, 615-619
+
+--------------------------------------------------
+MITO
+Venere e l'armatura di Enea
+[enea › Venere e l'armatura di Enea]  opere d'arte: 9
+
+VERSI
+8.369-403	Eneide, VIII
+8.607-731	Eneide, VIII
+
+--------------------------------------------------
+MITO
+Venere salva Elena
+[enea › Venere salva Elena]  opere d'arte: 2
+
+VERSI
+2.594-620	Eneide, II
+
+--------------------------------------------------
+MITO
+il furto del vello d'oro
+[il furto del vello d'oro]  opere d'arte: 14
+
+VERSI
+442-1162	Apollonio Rhodio, Argonautica, III
+442-1162	Apollonio Rhodio, Argonautica, III
+6-182	Apollonio Rhodio, Argonautica, IV
+7.1-158	Ovidio, Metamorfosi VII
+8.1-424	Ovidio, Metamorfosi VIII
+
+--------------------------------------------------
