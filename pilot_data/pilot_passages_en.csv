@@ -1,0 +1,868 @@
+episode_id,book,anchor_lat,center_unit,n_units_book,win_source,win_A,win_B,status_A,status_B,ref_start,ref_end,scene_start,scene_end,confidence,llm_note,name_hit,review,iou_episode,passage_id,passage_en,scene_en,translation_source,translation_header,translation_license_note,grounded,span_proposed_by,verified_by
+ovid_met_01_237,1,237,321,1052,names+anchor,256-385,211-430,ok,not_found,290.0,315.0,303.0,315.0,high,Episode starts when Jupiter visits Lycaon; scene is the transformation.,True,needs_review,,phi0959.phi006.perseus-eng3:1.u290-u315,"and entered his inhospitable home:—
+and when I showed his people that a God
+had come, the lowly prayed and worshiped me,
+but this Lycaon mocked their pious vows
+and scoffing said; ‘A fair experiment
+will prove the truth if this be god or man.’
+and he prepared to slay me in the night,—
+to end my slumbers in the sleep of death.
+So made he merry with his impious proof;
+but not content with this he cut the throat
+of a Molossian hostage sent to him,
+and partly softened his still quivering limbs
+in boiling water, partly roasted them
+on fires that burned beneath. And when this flesh
+was served to me on tables, I destroyed
+his dwelling and his worthless Household Gods,
+with thunder bolts avenging. Terror struck
+he took to flight, and on the silent plains
+is howling in his vain attempts to speak;
+he raves and rages and his greedy jaws,
+desiring their accustomed slaughter, turn
+against the sheep—still eager for their blood.
+His vesture separates in shaggy hair,
+his arms are changed to legs; and as a wolf
+he has the same grey locks, the same hard face,
+the same bright eyes, the same ferocious look.","on fires that burned beneath. And when this flesh
+was served to me on tables, I destroyed
+his dwelling and his worthless Household Gods,
+with thunder bolts avenging. Terror struck
+he took to flight, and on the silent plains
+is howling in his vain attempts to speak;
+he raves and rages and his greedy jaws,
+desiring their accustomed slaughter, turn
+against the sheep—still eager for their blood.
+His vesture separates in shaggy hair,
+his arms are changed to legs; and as a wolf
+he has the same grey locks, the same hard face,
+the same bright eyes, the same ferocious look.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_01_548,1,548,741,1052,names+anchor,676-805,631-850,ok,ok,688.0,748.0,711.0,722.0,high,Episode starts with Daphne fleeing Apollo; scene is the transformation.,False,needs_review,0.52,phi0959.phi006.perseus-eng3:1.u688-u748,"But even as he made his plaint, the Nymph
+with timid footsteps fled from his approach,
+and left him to his murmurs and his pain.
+Lovely the virgin seemed as the soft wind
+exposed her limbs, and as the zephyrs fond
+fluttered amid her garments, and the breeze
+fanned lightly in her flowing hair. She seemed
+most lovely to his fancy in her flight;
+and mad with love he followed in her steps,
+and silent hastened his increasing speed.
+As when the greyhound sees the frightened hare
+flit over the plain:—With eager nose outstretched,
+impetuous, he rushes on his prey,
+and gains upon her till he treads her feet,
+and almost fastens in her side his fangs;
+but she, whilst dreading that her end is near,
+is suddenly delivered from her fright;
+so was it with the god and virgin: one
+with hope pursued, the other fled in fear;
+and he who followed, borne on wings of love,
+permitted her no rest and gained on her,
+until his warm breath mingled in her hair.
+Her strength spent, pale and faint, with pleading eyes
+she gazed upon her father's waves and prayed,
+“Help me my father, if thy flowing streams
+have virtue! Cover me, O mother Earth!
+Destroy the beauty that has injured me,
+or change the body that destroys my life.”
+Before her prayer was ended, torpor seized
+on all her body, and a thin bark closed
+around her gentle bosom, and her hair
+became as moving leaves; her arms were changed
+to waving branches, and her active feet
+as clinging roots were fastened to the ground—
+her face was hidden with encircling leaves.—
+Phoebus admired and loved the graceful tree,
+(For still, though changed, her slender form remained)
+and with his right hand lingering on the trunk
+he felt her bosom throbbing in the bark.
+He clung to trunk and branch as though to twine.
+His form with hers, and fondly kissed the wood
+that shrank from every kiss.
+And thus the God;
+“Although thou canst not be my bride, thou shalt
+be called my chosen tree, and thy green leaves,
+O Laurel! shall forever crown my brows,
+be wreathed around my quiver and my lyre;
+the Roman heroes shall be crowned with thee,
+as long processions climb the Capitol
+and chanting throngs proclaim their victories;
+and as a faithful warden thou shalt guard
+the civic crown of oak leaves fixed between
+thy branches, and before Augustan gates.
+And as my youthful head is never shorn,
+so, also, shalt thou ever bear thy leaves
+unchanging to thy glory.,”
+Here the God,
+Phoebus Apollo, ended his lament,
+and unto him the Laurel bent her boughs,
+so lately fashioned; and it seemed to him
+her graceful nod gave answer to his love.","she gazed upon her father's waves and prayed,
+“Help me my father, if thy flowing streams
+have virtue! Cover me, O mother Earth!
+Destroy the beauty that has injured me,
+or change the body that destroys my life.”
+Before her prayer was ended, torpor seized
+on all her body, and a thin bark closed
+around her gentle bosom, and her hair
+became as moving leaves; her arms were changed
+to waving branches, and her active feet
+as clinging roots were fastened to the ground—
+her face was hidden with encircling leaves.—",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_01_611,1,611,826,1052,names+anchor,761-890,716-935,ok,not_found,809.0,890.0,810.0,812.0,high,The episode starts with Jupiter's transformation of Io into a cow.,True,needs_review,,phi0959.phi006.perseus-eng3:1.u809-u890,"the coming of his queen. He had transformed
+the lovely Io, so that she appeared
+a milk white heifer—formed so beautiful
+and fair that envious Juno gazed on her.
+She queried: “Whose? what herd? what pasture fields?”
+As if she guessed no knowledge of the truth.
+And Jupiter , false hearted, said the cow
+was earth begotten, for he feared his queen
+might make inquiry of the owner's name.
+Juno implored the heifer as a gift.—
+what then was left the Father of the Gods?
+'Twould be a cruel thing to sacrifice
+his own beloved to a rival's wrath.
+Although refusal must imply his guilt
+the shame and love of her almost prevailed;
+but if a present of such little worth
+were now denied the sharer of his couch,
+the partner of his birth, 'twould prove indeed
+the earth born heifer other than she seemed—
+and so he gave his mistress up to her.
+Juno regardful of Jove's cunning art,
+lest he might change her to her human form,
+gave the unhappy heifer to the charge
+of Argus , Aristorides, whose head
+was circled with a hundred glowing eyes;
+of which but two did slumber in their turn
+whilst all the others kept on watch and guard.
+Whichever way he stood his gaze was fixed
+on Io—even if he turned away
+his watchful eyes on Io still remained.
+He let her feed by day; but when the sun
+was under the deep world he shut her up,
+and tied a rope around her tender neck.
+She fed upon green leaves and bitter herbs
+and on the cold ground slept—too often bare,
+she could not rest upon a cushioned couch.
+She drank the troubled waters. Hoping aid
+she tried to stretch imploring arms to Argus ,
+but all in vain for now no arms remained;
+the sound of bellowing was all she heard,
+and she was frightened with her proper voice.
+Where former days she loved to roam and sport,
+she wandered by the banks of Inachus:
+there imaged in the stream she saw her horns
+and, startled, turned and fled. And Inachus
+and all her sister Naiads knew her not,
+although she followed them, they knew her not,
+although she suffered them to touch her sides
+and praise her.
+When the ancient Inachus
+gathered sweet herbs and offered them to her,
+she licked his hands, kissing her father's palms,
+nor could she more restrain her falling tears.
+If only words as well as tears would flow,
+she might implore his aid and tell her name
+and all her sad misfortune; but, instead,
+she traced in dust the letters of her name
+with cloven hoof; and thus her sad estate
+was known.
+“Ah wretched me! ” her father cried;
+and as he clung around her horns and neck
+repeated while she groaned, “Ah wretched me!
+Art thou my daughter sought in every clime?
+When lost I could not grieve for thee as now
+that thou art found; thy sighs instead of words
+heave up from thy deep breast, thy longings give
+me answer. I prepared the nuptial torch
+and bridal chamber, in my ignorance,
+since my first hope was for a son in law;
+and then I dreamed of children from the match:
+but now the herd may furnish thee a mate,
+and all thy issue of the herd must be.
+Oh that a righteous death would end my grief!—
+it is a dreadful thing to be a God!
+Behold the lethal gate of death is shut
+against me, and my growing grief must last
+throughout eternity.”
+While thus he moaned
+came starry Argus there, and Io bore
+from her lamenting father. Thence he led
+his charge to other pastures; and removed
+from her, upon a lofty mountain sat,","the lovely Io, so that she appeared
+a milk white heifer—formed so beautiful
+and fair that envious Juno gazed on her.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_01_705,1,705,953,1052,names+anchor,838-992,793-1037,not_found,not_found,,,,,,,,needs_review,,,,,phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_01_723,1,723,977,1052,names+anchor,912-1041,867-1052,not_found,not_found,,,,,,,,needs_review,,,,,phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_02_346,2,346,503,1270,names+anchor,438-567,393-612,not_found,not_found,,,,,,,,needs_review,,,,,phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_02_373,2,373,542,1270,names+anchor,477-606,432-651,not_found,not_found,,,,,,,,needs_review,,,,,phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_02_506,2,506,735,1270,names+anchor,645-774,600-819,ok,not_found,662.0,708.0,702.0,705.0,high,The episode covers the transformation and subsequent constellation placement.,True,needs_review,,phi0959.phi006.perseus-eng3:2.u662-u708,"So saying, by her forehead's tresses seized
+the goddess on her rival; and she dragged
+her roughly to the ground. Pleading she raised
+her suppliant arms and begged for mercy.—While
+she pled, black hair spread over her white limbs;
+her hands were lengthened into feet, and claws
+long-curving tipped them; snarling jaws deformed
+the mouth that Jove had kissed. And lest her prayers
+and piteous words might move some listening God,
+and give remembrance, speech was so denied,
+that only from her throat came angry growls,
+now uttered hoarse and threatening.
+Still remains
+her understanding, though her body, thus
+transformed, makes her appear a savage bear.—
+her sorrows are expressed in many a groan,
+repeated as she lifts her hands—if we
+may call them so—repeated as she lifts
+them towards the stars and skies, ungrateful Jove
+regarding; but her voice accuses not.
+Afraid to rest in unfrequented woods,
+she wandered in the fields that once were hers,
+around her well-known dwelling. Over crags,
+in terror, she was driven by the cries
+of hounds; and many a time she fled in fear,
+a huntress from the hunters, or she hid
+from savage animals; forgetting her
+transformed condition. Changed into a bear,
+she fled affrighted from the bears that haunt
+the rugged mountains; and she feared and fled
+the wolves,—although her father was a wolf.
+When thrice five birthdays rounded out the youth
+of Arcas, offspring of Lycaon's child,
+he hunted in the forest of his choice;
+where, hanging with his platted nets the trees
+of Erymanthian forest, he espied
+his transformed mother,—but he knew her not;
+no one had told him of his parentage.
+Knowing her child, she stood with levelled gaze,
+amazed and mute as he began approach;
+but Arcas, frightened at the sight drew back
+to pierce his mother's breast with wounding spear.—
+but not permitting it the god of Heaven
+averted, and removed them from that crime.
+He, in a mighty wind—through vacant space,
+upbore them to the dome of starry heaven,
+and fixed them, Constellations, bright amid","but Arcas, frightened at the sight drew back
+to pierce his mother's breast with wounding spear.—
+but not permitting it the god of Heaven
+averted, and removed them from that crime.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_02_569,2,569,827,1270,names+anchor,762-891,717-936,ok,ok,802.0,844.0,814.0,826.0,high,Coronis's transformation into a crow is described in [821]-[826].,False,needs_review,0.42,phi0959.phi006.perseus-eng3:2.u802-u844,"“Begot by Coronaeus, who was lord
+of all the land of Phocis, I was once
+a royal virgin, sought by suitors rich
+and powerful. But beauty proved the cause
+of my misfortune; for it came to pass,
+as I was slowly walking on the sands
+that skirt the merge of ocean, where was oft
+my wont to roam, the god of Ocean gazed
+impassioned, and with honied words implored
+my love—but finding that I paid no heed,
+and all his words despised, he fumed with rage
+and followed me.
+“I fled from that sea-shore,
+to fields of shifting sands that all my steps
+delayed: and in despair upon the Gods
+and all mankind I called for aid, but I
+was quite alone and helpless. Presently
+the chaste Minerva , me, a virgin, heard
+and me assistance gave: for as my arms
+implored the Heavens, downy feathers grew
+from out the flesh; and as I tried to cast
+my mantle from my shoulders, wings appeared
+upon my tender sides; and as I strove
+to beat my naked bosom with my hands,
+nor hands remained nor naked breast to beat.
+“I ran, and as I sped the sands no more
+delayed me; I was soaring from the ground;
+and as I winged the air, Minerva chose
+me for a life-companion; but alas,
+although my life was blameless, fate or chance
+deprived me of Minerva 's loving aid;
+for soon Nictimene succeeded me
+to her protection and deserved esteem.—
+it happened in this way,—Nictimene
+committed the most wicked crimes, for which
+Minerva changed her to the bird of night—
+and ever since has claimed her as her own
+instead of me; and this despite the deed
+for which she shuns the glorious light of day,
+and conscious of her crime conceals her shame
+in the dark night—Minerva's Owl now called.
+All the glad birds of day, indignant shun,
+and chase her from the skies.”","“I fled from that sea-shore,
+to fields of shifting sands that all my steps
+delayed: and in despair upon the Gods
+and all mankind I called for aid, but I
+was quite alone and helpless. Presently
+the chaste Minerva , me, a virgin, heard
+and me assistance gave: for as my arms
+implored the Heavens, downy feathers grew
+from out the flesh; and as I tried to cast
+my mantle from my shoulders, wings appeared
+upon my tender sides; and as I strove
+to beat my naked bosom with my hands,
+nor hands remained nor naked breast to beat.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_02_657,2,657,955,1270,names+anchor,890-1019,845-1064,ok,not_found,910.0,965.0,946.0,965.0,high,The episode starts with Ocyroe's introduction and ends with her transformation.,True,needs_review,,phi0959.phi006.perseus-eng3:2.u910-u965,"adown her shoulders.—She was known by name
+Ocyroe. The hidden things that Fate
+conceals, she had the power to tell; for not
+content was she to learn her father's arts,
+but rather pondered on mysterious things.
+So, when the god of Frenzy warmed her breast,
+gazing on Aesculapius,—the child
+of Phoebus and Coronis, while her soul
+was gifted, with prophetic voice she said;
+“O thou who wilt bestow on all the world
+the blessed boon of health, increase in strength!
+To thee shall mortals often owe their lives:
+to thee is given the power to raise the dead.
+But when against the power of Deities
+thou shalt presume to dare thy mortal skill,
+the bolts of Jove will shatter thy great might,
+and health no more be thine from thence to grant.
+And from a god thou shalt return to dust,
+and once again from dust become a God;
+and thou shalt thus renew thy destiny.—
+“And thou, dear father Chiron, brought to birth
+with pledge of an immortal life, informed
+with ever-during strength, when biting flames
+of torment from the baneful serpent's blood
+are coursing in thy veins, thou shalt implore
+a welcome death; and thy immortal life
+the Gods shall suffer to the power of death.—
+and the three Destinies shall cut thy thread.”
+She would continue these prophetic words
+but tears unbidden trickled down her face;
+and, as it seemed her sighs would break her heart,
+she thus bewailed; “The Fates constrain my speech
+and I can say no more; my power has gone.
+Alas, my art, although of little force
+and doubtful worth, has brought upon my head
+the wrath of Heaven.
+“Oh wherefore did I know
+to cast the future? Now my human form
+puts on another shape, and the long grass
+affords me needed nourishment. I want
+to range the boundless plains and have become,
+in image of my father's kind, a mare:
+but gaining this, why lose my human shape?
+My father's form is one of twain combined.”
+And as she wailed the words became confused
+and scarcely understood; and soon her speech
+was only as the whinny of a mare.
+Down to the meadow's green her arms were stretched;
+her fingers joined together, and smooth hoofs
+made of five nails a single piece of horn.
+Her face and neck were lengthened, and her hair
+swept downward as a tail; the scattered locks
+that clung around her neck were made a mane,
+tossed over to the right. Her voice and shape
+were altogether changed, and since that day
+the change has given her a different name.","“Oh wherefore did I know
+to cast the future? Now my human form
+puts on another shape, and the long grass
+affords me needed nourishment. I want
+to range the boundless plains and have become,
+in image of my father's kind, a mare:
+but gaining this, why lose my human shape?
+My father's form is one of twain combined.”
+And as she wailed the words became confused
+and scarcely understood; and soon her speech
+was only as the whinny of a mare.
+Down to the meadow's green her arms were stretched;
+her fingers joined together, and smooth hoofs
+made of five nails a single piece of horn.
+Her face and neck were lengthened, and her hair
+swept downward as a tail; the scattered locks
+that clung around her neck were made a mane,
+tossed over to the right. Her voice and shape
+were altogether changed, and since that day
+the change has given her a different name.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_02_705,2,705,1024,1270,names+anchor,954-1083,909-1128,ok,not_found,980.0,1018.0,981.0,1017.0,high,The episode starts when Mercury observes the cattle.,True,needs_review,,phi0959.phi006.perseus-eng3:2.u980-u1018,"over the plains of Pylos . Mercury
+observed them, unattended, and from thence
+drove them away and hid them in the forest.
+So deftly did he steal them, no one knew
+or noticed save an ancient forester,
+well known to all the neighbor-folk, by them
+called Battus. He was keeper of that wood,
+and that green pasture where the blooded mares
+of rich Neleus grazed.
+As Mercury
+distrusted him, he led him to one side
+and said; “Good stranger, whosoever thou art,
+if any one should haply question thee,
+if thou hast seen these kine, deny it all;
+and for thy good will, ere the deed is done,
+I give as thy reward this handsome cow.”
+Now when the gift was his, old Battus said,
+“Go hence in safety, if it be thy will;
+and should my tongue betray thee, let that stone
+make mention of the theft.” And as he spoke,
+he pointed to a stone.
+The son of Jove
+pretended to depart, but quickly changed
+his voice and features, and retraced his steps,
+and thus again addressed that ancient man;
+“Kind sir, if thou wouldst earn a fair reward,
+a heifer and a bull, if thou hast seen
+some cattle pass, I pray thee give thy help,
+and tell me of the theft.” So the reward
+was doubled; and the old man answered him,
+“Beyond those hills they be,” and so they were
+‘Beyond those hills.’
+And, laughing, Mercury said,
+“Thou treacherous man to me dost thou betray
+myself? Dost thou bewray me to myself?”
+The god indignant turned his perjured breast
+into a stone which even now is called
+“The Spy of Pylos ,” a disgraceful name,
+derived from days of old, but undeserved.","observed them, unattended, and from thence
+drove them away and hid them in the forest.
+So deftly did he steal them, no one knew
+or noticed save an ancient forester,
+well known to all the neighbor-folk, by them
+called Battus. He was keeper of that wood,
+and that green pasture where the blooded mares
+of rich Neleus grazed.
+As Mercury
+distrusted him, he led him to one side
+and said; “Good stranger, whosoever thou art,
+if any one should haply question thee,
+if thou hast seen these kine, deny it all;
+and for thy good will, ere the deed is done,
+I give as thy reward this handsome cow.”
+Now when the gift was his, old Battus said,
+“Go hence in safety, if it be thy will;
+and should my tongue betray thee, let that stone
+make mention of the theft.” And as he spoke,
+he pointed to a stone.
+The son of Jove
+pretended to depart, but quickly changed
+his voice and features, and retraced his steps,
+and thus again addressed that ancient man;
+“Kind sir, if thou wouldst earn a fair reward,
+a heifer and a bull, if thou hast seen
+some cattle pass, I pray thee give thy help,
+and tell me of the theft.” So the reward
+was doubled; and the old man answered him,
+“Beyond those hills they be,” and so they were
+‘Beyond those hills.’
+And, laughing, Mercury said,
+“Thou treacherous man to me dost thou betray
+myself? Dost thou bewray me to myself?”
+The god indignant turned his perjured breast
+into a stone which even now is called
+“The Spy of Pylos ,” a disgraceful name,",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_03_193,3,193,285,1078,names+anchor,220-349,175-394,ok,ok,257.0,349.0,263.0,283.0,high,Episode starts when Actaeon enters the grove; scene is the sighting and transformation.,True,needs_review,0.67,phi0959.phi006.perseus-eng3:3.u257-u349,"Actaeon, wandering through the unknown woods,
+entered the precincts of that sacred grove;
+with steps uncertain wandered he as fate
+directed, for his sport must wait till morn.—
+soon as he entered where the clear springs welled
+or trickled from the grotto's walls, the nymphs,
+now ready for the bath, beheld the man,
+smote on their breasts, and made the woods resound,
+suddenly shrieking. Quickly gathered they
+to shield Diana with their naked forms, but she
+stood head and shoulders taller than her guards.—
+as clouds bright-tinted by the slanting sun,
+or purple-dyed Aurora, so appeared
+Diana 's countenance when she was seen.
+Oh, how she wished her arrows were at hand!
+But only having water, this she took
+and dashed it on his manly countenance,
+and sprinkled with the avenging stream his hair,
+and said these words, presage of future woe;
+“Go tell it, if your tongue can tell the tale,
+your bold eyes saw me stripped of all my robes.”
+No more she threatened, but she fixed the horns
+of a great stag firm on his sprinkled brows;
+she lengthened out his neck; she made his ears
+sharp at the top; she changed his hands and feet;
+made long legs of his arms, and covered him
+with dappled hair—his courage turned to fear.
+The brave son of Autonoe took to flight,
+and marveled that he sped so swiftly on.—
+he saw his horns reflected in a stream
+and would have said, “Ah, wretched me!” but now
+he had no voice, and he could only groan:
+large tears ran trickling down his face, transformed
+in every feature.—Yet, as clear remained
+his understanding, and he wondered what
+he should attempt to do: should he return
+to his ancestral palace, or plunge deep
+in vast vacuities of forest wilds?
+Fear made him hesitate to trust the woods,
+and shame deterred him from his homeward way.
+While doubting thus his dogs espied him there:
+first Blackfoot and the sharp nosed Tracer raised
+the signal: Tracer of the Gnossian breed,
+and Blackfoot of the Spartan: swift as wind
+the others followed. Glutton, Quicksight, Surefoot,
+three dogs of Arcady; then valiant Killbuck ,
+Tempest, fierce Hunter , and the rapid Wingfoot;
+sharp-scented Chaser, and Woodranger wounded
+so lately by a wild boar; savage Wildwood ,
+the wolf-begot with Shepherdess the cow-dog;
+and ravenous Harpy followed by her twin whelps;
+and thin-girt Ladon chosen from Sicyonia;
+racer and Barker, brindled Spot and Tiger;
+sturdy old Stout and white haired Blanche and black Smut
+lusty big Lacon , trusty Storm and Quickfoot;
+active young Wolfet and her Cyprian brother
+black headed Snap, blazed with a patch of white hair
+from forehead to his muzzle; swarthy Blackcoat
+and shaggy Bristle, Towser and Wildtooth,
+his sire of Dicte and his dam of Lacon ;
+and yelping Babbler: these and others, more
+than patience leads us to recount or name.
+All eager for their prey the pack surmount
+rocks, cliffs and crags, precipitous—where paths
+are steep, where roads are none. He flies by routes
+so oft pursued but now, alas, his flight
+is from his own!—He would have cried, “Behold
+your master!—It is I—Actaeon!” Words
+refused his will. The yelping pack pressed on.
+First Blackmane seized and tore his master's back,
+Savage the next, then Rover's teeth were clinched
+deep in his shoulder.—These, though tardy out,
+cut through a by-path and arriving first
+clung to their master till the pack came up.
+The whole pack fastened on their master's flesh
+till place was none for others. Groaning he
+made frightful sounds that not the human voice
+could utter nor the stag; and filled the hills
+with dismal moans; and as a suppliant fell
+down to the ground upon his trembling knees;
+and turned his stricken eyes on his own dogs,
+entreating them to spare him from their fangs.
+But his companions, witless of his plight,
+urged on the swift pack with their hunting cries.
+They sought Actaeon and they vainly called,
+“Actaeon! Hi! Actaeon!” just as though
+he was away from them. Each time they called
+he turned his head. And when they chided him,
+whose indolence denied the joys of sport,
+how much he wished an indolent desire
+had haply held him from his ravenous pack.
+Oh, how much;better 'tis to see the hunt,
+and the fierce dogs, than feel their savage deeds!","now ready for the bath, beheld the man,
+smote on their breasts, and made the woods resound,
+suddenly shrieking. Quickly gathered they
+to shield Diana with their naked forms, but she
+stood head and shoulders taller than her guards.—
+as clouds bright-tinted by the slanting sun,
+or purple-dyed Aurora, so appeared
+Diana 's countenance when she was seen.
+Oh, how she wished her arrows were at hand!
+But only having water, this she took
+and dashed it on his manly countenance,
+and sprinkled with the avenging stream his hair,
+and said these words, presage of future woe;
+“Go tell it, if your tongue can tell the tale,
+your bold eyes saw me stripped of all my robes.”
+No more she threatened, but she fixed the horns
+of a great stag firm on his sprinkled brows;
+she lengthened out his neck; she made his ears
+sharp at the top; she changed his hands and feet;
+made long legs of his arms, and covered him
+with dappled hair—his courage turned to fear.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_03_510,3,510,751,1078,names+anchor,686-815,641-860,not_found,not_found,,,,,,,,needs_review,,,,,phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_03_662,3,662,975,1078,names+anchor,910-1039,865-1078,ok,not_found,976.0,1015.0,979.0,1003.0,high,"The episode starts when the ship stops, and the scene is the transformation.",False,needs_review,,phi0959.phi006.perseus-eng3:3.u976-u1015,"“The wondering sailors laboured at the oars,
+and they unfurled the sails, in hopes to gain
+some headway, with redoubled energies;
+but twisting ivy tangled in the oars,
+and interlacing held them by its weight.
+And Bacchus in the midst of all stood crowned
+with chaplets of grape-leaves, and shook a lance
+covered with twisted fronds of leafy vines.
+Around him crouched the visionary forms
+of tigers, lynxes, and the mottled shapes
+of panthers.
+“Then the mariners leaped out,
+possessed by fear or madness. Medon first
+began to turn a swarthy hue, and fins
+grew outward from his flattened trunk,
+and with a curving spine his body bent.—
+then Lycabas to him, ‘What prodigy
+is this that I behold?’ Even as he spoke,
+his jaws were broadened and his nose was bent;
+his hardened skin was covered with bright scales.
+And Libys, as he tried to pull the oars,
+could see his own hands shrivel into fins;
+another of the crew began to grasp
+the twisted ropes, but even as he strove
+to lift his arms they fastened to his sides;—
+with bending body and a crooked back
+he plunged into the waves, and as he swam
+displayed a tail, as crescent as the moon.
+“Now here, now there, they flounce about the ship;
+they spray her decks with brine; they rise and sink;
+they rise again, and dive beneath the waves;
+they seem in sportive dance upon the main;
+out from their nostrils they spout sprays of brine;
+they toss their supple sides. And I alone,
+of twenty mariners that manned that ship,
+remained. A cold chill seized my limbs,—
+I was so frightened; but the gracious God
+now spake me fair, ‘Fear not and steer for Naxos .’
+And when we landed there I ministered
+on smoking altars Bacchanalian rites.”","but twisting ivy tangled in the oars,
+and interlacing held them by its weight.
+And Bacchus in the midst of all stood crowned
+with chaplets of grape-leaves, and shook a lance
+covered with twisted fronds of leafy vines.
+Around him crouched the visionary forms
+of tigers, lynxes, and the mottled shapes
+of panthers.
+“Then the mariners leaped out,
+possessed by fear or madness. Medon first
+began to turn a swarthy hue, and fins
+grew outward from his flattened trunk,
+and with a curving spine his body bent.—
+then Lycabas to him, ‘What prodigy
+is this that I behold?’ Even as he spoke,
+his jaws were broadened and his nose was bent;
+his hardened skin was covered with bright scales.
+And Libys, as he tried to pull the oars,
+could see his own hands shrivel into fins;
+another of the crew began to grasp
+the twisted ropes, but even as he strove
+to lift his arms they fastened to his sides;—
+with bending body and a crooked back
+he plunged into the waves, and as he swam
+displayed a tail, as crescent as the moon.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_04_252,4,252,376,1194,names+anchor,311-440,266-485,ok,not_found,352.0,379.0,374.0,378.0,high,Episode covers the death and transformation of Leucothea.,True,needs_review,,phi0959.phi006.perseus-eng3:4.u352-u379,"leucothea's father also heard the tale.
+Relentlessly and fierce, his cruel hand
+buried his living daughter in the ground,
+who, while her arms implored the glowing Sun,
+complained. “For love of thee my life is lost.”
+And as she wailed her father sowed her there.
+Hyperion's Son began with piercing heat
+to scatter the loose sand, a way to open,
+that she might look with beauteous features forth
+too late! for smothered by the compact earth,
+thou canst not lift thy drooping head; alas!
+A lifeless corse remains.
+No sadder sight
+since Phaethon was blasted by the bolt,
+down-hurled by Jove, had ever grieved the God
+who daily drives his winged steeds. In vain
+he strives with all the magic of his rays
+to warm her limbs anew. — The deed is done—
+what vantage gives his might if fate deny?
+He sprinkles fragrant nectar on her grave,
+and lifeless corse, and as he wails exclaims,
+“But naught shall hinder you to reach the skies.”
+At once the maiden's body, steeped in dews
+of nectar, sweet and odourate, dissolves
+and adds its fragrant juices to the earth:
+slowly from this a sprout of Frankincense
+takes root in riched soil, and bursting through
+the sandy hillock shows its top.","At once the maiden's body, steeped in dews
+of nectar, sweet and odourate, dissolves
+and adds its fragrant juices to the earth:
+slowly from this a sprout of Frankincense
+takes root in riched soil, and bursting through",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_04_268,4,268,399,1194,names+anchor,329-458,284-503,ok,ok,355.0,408.0,355.0,379.0,high,The episode starts with Clytie's death and ends with her transformation.,True,auto_ok,0.9,phi0959.phi006.perseus-eng3:4.u355-u408,"who, while her arms implored the glowing Sun,
+complained. “For love of thee my life is lost.”
+And as she wailed her father sowed her there.
+Hyperion's Son began with piercing heat
+to scatter the loose sand, a way to open,
+that she might look with beauteous features forth
+too late! for smothered by the compact earth,
+thou canst not lift thy drooping head; alas!
+A lifeless corse remains.
+No sadder sight
+since Phaethon was blasted by the bolt,
+down-hurled by Jove, had ever grieved the God
+who daily drives his winged steeds. In vain
+he strives with all the magic of his rays
+to warm her limbs anew. — The deed is done—
+what vantage gives his might if fate deny?
+He sprinkles fragrant nectar on her grave,
+and lifeless corse, and as he wails exclaims,
+“But naught shall hinder you to reach the skies.”
+At once the maiden's body, steeped in dews
+of nectar, sweet and odourate, dissolves
+and adds its fragrant juices to the earth:
+slowly from this a sprout of Frankincense
+takes root in riched soil, and bursting through
+the sandy hillock shows its top.
+No more
+to Clytie comes the author of sweet light,
+for though her love might make excuse of grief,
+and grief may plead to pardon jealous words,
+his heart disdains the schemist of his woe;
+and she who turned to sour the sweet of love,
+from that unhallowed moment pined away.
+Envious and hating all her sister Nymphs,
+day after day,—and through the lonely nights,
+all unprotected from the chilly breeze,
+her hair dishevelled, tangled, unadorned,
+she sat unmoved upon the bare hard ground.
+Nine days the Nymph was nourished by the dews,
+or haply by her own tears' bitter brine;—
+all other nourishment was naught to her.—
+She never raised herself from the bare ground,
+though on the god her gaze was ever fixed;—
+she turned her features towards him as he moved:
+they say that afterwhile her limbs took root
+and fastened to the around.
+A pearly white
+overspread her countenance, that turned as pale
+and bloodless as the dead; but here and there
+a blushing tinge resolved in violet tint;
+and something like the blossom of that name
+a flower concealed her face. Although a root
+now holds her fast to earth, the Heliotrope
+turns ever to the Sun, as if to prove
+that all may change and love through all remain.","who, while her arms implored the glowing Sun,
+complained. “For love of thee my life is lost.”
+And as she wailed her father sowed her there.
+Hyperion's Son began with piercing heat
+to scatter the loose sand, a way to open,
+that she might look with beauteous features forth
+too late! for smothered by the compact earth,
+thou canst not lift thy drooping head; alas!
+A lifeless corse remains.
+No sadder sight
+since Phaethon was blasted by the bolt,
+down-hurled by Jove, had ever grieved the God
+who daily drives his winged steeds. In vain
+he strives with all the magic of his rays
+to warm her limbs anew. — The deed is done—
+what vantage gives his might if fate deny?
+He sprinkles fragrant nectar on her grave,
+and lifeless corse, and as he wails exclaims,
+“But naught shall hinder you to reach the skies.”
+At once the maiden's body, steeped in dews
+of nectar, sweet and odourate, dissolves
+and adds its fragrant juices to the earth:
+slowly from this a sprout of Frankincense
+takes root in riched soil, and bursting through
+the sandy hillock shows its top.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_04_373,4,373,556,1194,names+anchor,491-620,446-665,not_found,not_found,,,,,,,,needs_review,,,,,phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_04_399,4,399,594,1194,names+anchor,399-633,354-678,ok,ok,587.0,625.0,611.0,614.0,high,The episode starts with the daughters of Minyas' actions.,True,needs_review,0.61,phi0959.phi006.perseus-eng3:4.u587-u625,"Now though the daughters of King Minyas
+have made an end of telling tales, they make
+no end of labour; for they so despise
+the deity, and desecrate his feast.
+While busily engaged, with sudden beat
+they hear resounding tambourines; and pipes
+and crooked horns and tinkling brass renew,
+unseen, the note; saffron and myrrh dissolve
+in dulcet odours; and, beyond belief,
+the woven webs, dependent on the loom,
+take tints of green, put forth new ivy leaves,
+or change to grape-vines verdant. There the thread
+is twisted into tendrils, there the warp
+is fashioned into many-moving leaves—
+the purple lends its splendour to the grape.
+And now the day is past; it is the hour
+when night ambiguous merges into day,
+which dubious owns nor light nor dun obscure;
+and suddenly the house begins to shake,
+and torches oil-dipped seem to flare around,
+and fires a-glow to shine in every room,
+and phantoms, feigned of savage beasts, to howl.—
+Full of affright amid the smoking halls
+the sisters vainly hide, and wheresoever
+they deem security from flaming fires,
+fearfully flit. And while they seek to hide,
+a membrane stretches over every limb,
+and light wings open from their slender arms.
+In the weird darkness they are unaware
+what measure wrought to change their wonted shape.
+No plumous vans avail to lift their flight,
+yet fair they balance on membraneous wing.
+Whenever they would speak a tiny voice,
+diminutive, apportioned to their size,
+in squeaking note complains. Adread the light,
+their haunts avoid by day the leafy woods,
+for sombre attics, where secure they rest
+till forth the dun obscure their wings may stretch
+at hour of Vesper;—this accords their name.","they deem security from flaming fires,
+fearfully flit. And while they seek to hide,
+a membrane stretches over every limb,
+and light wings open from their slender arms.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_04_576,4,576,857,1194,names+anchor,792-921,747-966,ok,ok,853.0,902.0,861.0,864.0,high,The episode starts with Cadmus's grief and ends with the snakes' nature.,True,auto_ok,0.92,phi0959.phi006.perseus-eng3:4.u853-u902,"Weighted with woe,
+bowed down with years, their minds recalled the time
+when first disaster fell upon their House:—
+relating their misfortunes, Cadmus spoke;
+“Was that a sacred dragon that my spear
+impaled, when on the way from Sidon 's gates
+I planted in the earth those dragon-teeth,
+unthought-of seed? If haply 'tis the Gods,
+(whose rage unerring, gives me to revenge)
+I only pray that I may lengthen out,
+as any serpent.” Even as he spoke,
+he saw and felt himself increase in length.
+His body coiled into a serpent's form;
+bright scale's enveloped his indurate skin,
+and azure macules in speckled pride,
+enriched his glowing folds; and as he fell
+supinely on his breast, his legs were joined,
+and gradually tapered as a serpent's tail.—
+Some time his arms remained, which stretching forth
+while tears rolled down his human face, not changed
+as yet, he said; “Hither, O hapless one!
+Come hither my unhappy wife, while aught
+is left of manhood; touch me, take my hand,
+unchanged as yet—ah, soon this serpent-form
+will cover me!”
+So did he speak, nor thought
+to make an end; but suddenly his tongue
+became twin-forked. As often as he tried,
+a hissing sound escaped; the only voice
+that Nature left him. —
+And his wife bewailed,
+and smote her breast, “Ah, Cadmus, ah!
+Most helpless one, put off that monster-shape!
+Your feet, your shoulders and your hands are gone;
+your manly form, your very colour gone; all—all
+is changed!—Oh, why not, ye celestial Gods,
+me likewise, to a serpent-shape transform!”—
+So ended her complaint. Cadmus caressed
+her gently with his tongue; and slid to her
+dear bosom, just as if he knew his wife;
+and he embraced her, and he touched her neck.
+All their attendants, who had seen the change,
+were filled with fear; but when as crested snakes
+the twain appeared in brightly glistening mail,
+their grief was lightened: and the pair, enwreathed
+in twisting coils, departed from that place,
+and sought a covert in the nearest grove.—
+There, then, these gentle serpents never shun
+mankind, nor wound, nor strike with poisoned fangs;
+for they are always conscious of the past.","(whose rage unerring, gives me to revenge)
+I only pray that I may lengthen out,
+as any serpent.” Even as he spoke,
+he saw and felt himself increase in length.",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
+ovid_met_05_456,5,456,696,1033,names+anchor,631-760,586-805,ok,not_found,690.0,709.0,697.0,707.0,high,The episode starts with Ceres' thirst and ends with the lizard's flight.,False,needs_review,,phi0959.phi006.perseus-eng3:5.u690-u709,"when, as by chance, a cottage thatched with straw
+gladdened her sight. Thither the goddess went,
+and, after knocking at the humble door,
+waited until an ancient woman came;
+who, when she saw the goddess and had heard
+her plea for water, gave her a sweet drink,
+but lately brewed of parched barley-meal;
+and while the goddess quaffed this drink a boy,
+of bold and hard appearance, stood before
+and laughed and called her greedy. While he spoke
+the angry goddess sprinkled him with meal,
+mixed with the liquid which had not been drunk.
+“His face grew spotted where the mixture struck,
+and legs appeared where he had arms before,
+a tail was added to his changing trunk;
+and lest his former strength might cause great harm,
+all parts contracted till he measured less
+than common lizards. While the ancient dame
+wondered and wept and strove for one caress,
+the reptile fled and sought a lurking place.—","and while the goddess quaffed this drink a boy,
+of bold and hard appearance, stood before
+and laughed and called her greedy. While he spoke
+the angry goddess sprinkled him with meal,
+mixed with the liquid which had not been drunk.
+“His face grew spotted where the mixture struck,
+and legs appeared where he had arms before,
+a tail was added to his changing trunk;
+and lest his former strength might cause great harm,
+all parts contracted till he measured less
+than common lizards. While the ancient dame",phi0959.phi006.perseus-eng3,Metamorphoses | P. Ovidius Naso | Brookes More,,True,/models/gemma-4-E4B-it-Q8_0.gguf,
